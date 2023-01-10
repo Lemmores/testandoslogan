@@ -23,6 +23,7 @@
 <br><li><b><font size="45">Status:</font></b></li>
 </div>
 
-![Snake animation](https://github.com/lemmores/lemmores/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoaoBrandaoS/JoaoBrandaoS/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
